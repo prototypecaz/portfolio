@@ -42,8 +42,8 @@ const GlowShaderMaterial = {
 
 const Model = () => {
   const ref = useRef();
-  const object = useLoader(OBJLoader, '/MaleHologram.obj');
-  const texture = useLoader(TextureLoader, '/teste4.png'); // Chargez votre texture comme avant.
+  const object = useLoader(OBJLoader, '/portfolio/MaleHologram.obj');
+  const texture = useLoader(TextureLoader, '/portfolio/teste4.png'); // Chargez votre texture comme avant.
 
 
   object.traverse((child) => {
