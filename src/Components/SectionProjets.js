@@ -9,7 +9,7 @@ const projets = [
         titreProjet: "projet1",
         sousTitre:'sousTitre1',
         motsTechno:['javascript','php','react'],
-        image:"/images/facebook.png"
+        image:"portfolio/images/facebook.png"
     }
 ,
 
@@ -17,7 +17,7 @@ const projets = [
         titreProjet: "projet1",
         sousTitre:'sousTitre1',
         motsTechno:['javascript','php','react'],
-        image:"/images/github.png"
+        image:"portfolio//images/github.png"
     }
 ,
 
@@ -25,7 +25,7 @@ const projets = [
         titreProjet: "projet1",
         sousTitre:'sousTitre1',
         motsTechno:['javascript','php','react'],
-        image:"/images/instagram.png"
+        image:"portfolio/images/instagram.png"
     }
 ,
 
@@ -33,7 +33,7 @@ const projets = [
         titreProjet: "projet1",
         sousTitre:'sousTitre1',
         motsTechno:['javascript','php','react'],
-        image:"/images/linkedin.png"
+        image:"portfolio/images/linkedin.png"
     }
 
 ]

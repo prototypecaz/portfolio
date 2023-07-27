@@ -83,7 +83,7 @@ export default function SectionContact() {
         </form>
 
 
-    <img id='moon' src="/images/moon.png"/>
+    <img id='moon' src="portfolio/images/moon.png"/>
     </div>
 
     </>
