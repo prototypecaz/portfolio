@@ -9,7 +9,7 @@ $mailer = (array) array(
 
     'host' => "smtp.gmail.com",
     'port' => "587",
-    'username' => "",
+    'username' => "guillaume.cazes21@gmail.com",
     'password' => ""
 
 );
