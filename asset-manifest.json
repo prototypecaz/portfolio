@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.2aae72eb.css",
-    "main.js": "/portfolio/static/js/main.b8dea31e.js",
-    "static/js/705.7c11fe65.chunk.js": "/portfolio/static/js/705.7c11fe65.chunk.js",
-    "static/js/309.e7f44cb5.chunk.js": "/portfolio/static/js/309.e7f44cb5.chunk.js",
+    "main.css": "/portfolio/static/css/main.a2d21788.css",
+    "main.js": "/portfolio/static/js/main.09c75704.js",
+    "static/js/705.9e923ead.chunk.js": "/portfolio/static/js/705.9e923ead.chunk.js",
+    "static/js/309.58411676.chunk.js": "/portfolio/static/js/309.58411676.chunk.js",
     "static/js/407.f663e362.chunk.js": "/portfolio/static/js/407.f663e362.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/js/457.79e20d11.chunk.js": "/portfolio/static/js/457.79e20d11.chunk.js",
@@ -11,17 +11,17 @@
     "static/media/MontserratAlternates-ExtraBold.ttf": "/portfolio/static/media/MontserratAlternates-ExtraBold.be0c7493a022c76bed70.ttf",
     "static/media/Market_Deco.ttf": "/portfolio/static/media/Market_Deco.81315f1a8b740b5efce6.ttf",
     "index.html": "/portfolio/index.html",
-    "main.2aae72eb.css.map": "/portfolio/static/css/main.2aae72eb.css.map",
-    "main.b8dea31e.js.map": "/portfolio/static/js/main.b8dea31e.js.map",
-    "705.7c11fe65.chunk.js.map": "/portfolio/static/js/705.7c11fe65.chunk.js.map",
-    "309.e7f44cb5.chunk.js.map": "/portfolio/static/js/309.e7f44cb5.chunk.js.map",
+    "main.a2d21788.css.map": "/portfolio/static/css/main.a2d21788.css.map",
+    "main.09c75704.js.map": "/portfolio/static/js/main.09c75704.js.map",
+    "705.9e923ead.chunk.js.map": "/portfolio/static/js/705.9e923ead.chunk.js.map",
+    "309.58411676.chunk.js.map": "/portfolio/static/js/309.58411676.chunk.js.map",
     "407.f663e362.chunk.js.map": "/portfolio/static/js/407.f663e362.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map",
     "457.79e20d11.chunk.js.map": "/portfolio/static/js/457.79e20d11.chunk.js.map",
     "459.2ed2c206.chunk.js.map": "/portfolio/static/js/459.2ed2c206.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2aae72eb.css",
-    "static/js/main.b8dea31e.js"
+    "static/css/main.a2d21788.css",
+    "static/js/main.09c75704.js"
   ]
 }
