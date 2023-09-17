@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.bfa7b910.css",
-    "main.js": "/portfolio/static/js/main.a7373e9b.js",
+    "main.css": "/portfolio/static/css/main.3bd21680.css",
+    "main.js": "/portfolio/static/js/main.3135e740.js",
     "static/js/705.9e923ead.chunk.js": "/portfolio/static/js/705.9e923ead.chunk.js",
     "static/js/309.1c87297a.chunk.js": "/portfolio/static/js/309.1c87297a.chunk.js",
     "static/js/407.f663e362.chunk.js": "/portfolio/static/js/407.f663e362.chunk.js",
@@ -11,8 +11,8 @@
     "static/media/MontserratAlternates-ExtraBold.ttf": "/portfolio/static/media/MontserratAlternates-ExtraBold.be0c7493a022c76bed70.ttf",
     "static/media/Market_Deco.ttf": "/portfolio/static/media/Market_Deco.81315f1a8b740b5efce6.ttf",
     "index.html": "/portfolio/index.html",
-    "main.bfa7b910.css.map": "/portfolio/static/css/main.bfa7b910.css.map",
-    "main.a7373e9b.js.map": "/portfolio/static/js/main.a7373e9b.js.map",
+    "main.3bd21680.css.map": "/portfolio/static/css/main.3bd21680.css.map",
+    "main.3135e740.js.map": "/portfolio/static/js/main.3135e740.js.map",
     "705.9e923ead.chunk.js.map": "/portfolio/static/js/705.9e923ead.chunk.js.map",
     "309.1c87297a.chunk.js.map": "/portfolio/static/js/309.1c87297a.chunk.js.map",
     "407.f663e362.chunk.js.map": "/portfolio/static/js/407.f663e362.chunk.js.map",
@@ -21,7 +21,7 @@
     "459.2ed2c206.chunk.js.map": "/portfolio/static/js/459.2ed2c206.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfa7b910.css",
-    "static/js/main.a7373e9b.js"
+    "static/css/main.3bd21680.css",
+    "static/js/main.3135e740.js"
   ]
 }
